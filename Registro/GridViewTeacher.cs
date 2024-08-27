@@ -37,21 +37,59 @@ namespace Registro
             dataGridView1.Columns["Voti"].Visible = false;
         }
 
+        private void SaveJson()
+        {
+            string JsonPath = @"..\..\assets\students.json";
+            string Data = JsonConvert.SerializeObject(Students, Formatting.Indented);
+            File.WriteAllText(JsonPath, Data);
+        }
+
         private void ShowStudentDetails(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex >= 0)
+                if (e.RowIndex >= 0)
             {
                 Student SelectedStudent = Students[e.RowIndex];
 
-                var detailsForm = new DetailsStudentTeacher(SelectedStudent, Students, false, 0);
+                var detailsForm = new DetailsPage(SelectedStudent, Students, false, 0, false);
 
                 if (detailsForm.ShowDialog() == DialogResult.OK)
                 {
                     LoadGrid();
                 }
+              
             }
         }
 
+        private void AddButton_Click(object sender, EventArgs e)
+        {
 
+            var NewStudent = new Student
+            {
+                Matricola = 0,
+                Nome = "",
+                Cognome = "",
+                DataNascita = DateTime.Today,
+                LuogoNascita = "",
+                Voti = new Dictionary<string, List<int>>()
+            };
+
+
+            var detailsForm = new DetailsPage(NewStudent, Students, false, 0, true);
+            if (detailsForm.ShowDialog() == DialogResult.OK)
+            {
+                Students.Add(NewStudent);
+                SaveJson();
+                LoadGrid();
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Logged Out Successfully");
+            var LoginForm = new LoginPage1();
+            LoginForm.Show();
+            this.Close();
+            return;
+        }
     }
 }

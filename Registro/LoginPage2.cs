@@ -35,20 +35,27 @@ namespace Registro
 
         private void button1_Click(object sender, EventArgs e)
         {
+            bool StudentFound = false;
+
             foreach (var student in Students)
             {
-                if(student.Matricola == numericUpDown1.Value)
+                if (student.Matricola == numericUpDown1.Value)
                 {
-                    MessageBox.Show("Singed In Sucessfully");
-                    var detailsForm = new DetailsStudentTeacher(SelectedStudent, Students, false, 0);
+                    StudentFound = true;
+                    MessageBox.Show("Logged In Successfully");
+                    var detailsForm = new DetailsPage(student, Students, true, student.Matricola, false);
                     detailsForm.Show();
+                    this.Close();
                     return;
                 }
+            }
 
+            if (!StudentFound)
+            {
                 MessageBox.Show("Invalid ID");
                 numericUpDown1.Value = 0;
-                return;
             }
         }
+
     }
 }

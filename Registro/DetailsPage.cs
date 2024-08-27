@@ -8,25 +8,32 @@ using System.Windows.Forms;
 
 namespace Registro
 {
-    public partial class DetailsStudentTeacher : Form
+    public partial class DetailsPage : Form
     {
         private Student SelectedStudent;
         private List<Student> Students;
         private bool StudentMode;
         private int ID;
+        private bool AddStudent;
         private bool EditState = false;
 
-        public DetailsStudentTeacher(Student SelectedStudent, List<Student> Students,  bool StudentMode, int ID)
+        public DetailsPage(Student SelectedStudent, List<Student> Students,  bool StudentMode, int ID, bool AddStudent)
         {
             this.SelectedStudent = SelectedStudent;
             this.Students = Students;
             this.StudentMode = StudentMode;
             this.ID = ID;
+            this.AddStudent = AddStudent;
 
             InitializeComponent();
             UpdateStudentInfos(true);
             VotiGridUpdate();
             UpdateGridEditState(EditState);
+
+            if (AddStudent)
+            {
+                ChangeToEditable();
+            }
         }
 
         private void UpdateStudentInfos(bool Timing)
@@ -56,11 +63,16 @@ namespace Registro
                 return;
             }
 
-            StudentTextBox.Text = SelectedStudent.Nome;
+                StudentTextBox.Text = SelectedStudent.Nome;
             TextBoxCognome.Text = SelectedStudent.Cognome;
             ClassTextBox.Text = SelectedStudent.Classe;
             MatricolaTextBox.Value = SelectedStudent.Matricola;
             BirthDayPicker.Value = SelectedStudent.DataNascita;
+
+            if (StudentMode)
+            {
+                EditSaveButton.Text = "Log Out";
+            }
         }
 
         private void ChangeToEditable()
@@ -76,19 +88,69 @@ namespace Registro
 
         private void EditSaveButton_Click(object sender, EventArgs e)
         {
-            if (!EditState)
+            if (!StudentMode)
             {
-                EditState = true;
-                ChangeToEditable();
-                UpdateGridEditState(EditState);
+                if (!EditState)
+                {
+                    EditState = true;
+                    ChangeToEditable();
+                    UpdateGridEditState(EditState);
+                }
+                else
+                {
+                    if (ValidateInputs())
+                    {
+                        EditState = false;
+                        UpdateStudentInfos(false);
+                        UpdateGridEditState(EditState);
+                    }
+                }
             }
             else
             {
-                EditState = false;
-                UpdateStudentInfos(false);
-                UpdateGridEditState(EditState);
+                MessageBox.Show("Logged Out Successfully");
+                var LoginForm = new LoginPage1();
+                LoginForm.Show();
+                this.Close();
+                return;
             }
         }
+
+        private bool ValidateInputs()
+        {
+            if (StudentTextBox.Text == "")
+            {
+                MessageBox.Show("Nome cannot be empty.");
+                return false;
+            }
+
+            if (TextBoxCognome.Text == "")
+            {
+                MessageBox.Show("Cognome cannot be empty.");
+                return false;
+            }
+
+            if (ClassTextBox.Text == "")
+            {
+                MessageBox.Show("Classe cannot be empty.");
+                return false;
+            }
+
+            if (MatricolaTextBox.Value <= 0)
+            {
+                MessageBox.Show("Matricola must be a positive number.");
+                return false;
+            }
+
+            if (BirthDayPicker.Value == DateTime.MinValue)
+            {
+                MessageBox.Show("Please select a valid birth date.");
+                return false;
+            }
+
+            return true;
+        }
+
 
         private void VotiGridUpdate()
         {
@@ -99,6 +161,26 @@ namespace Registro
         private DataTable CreateVotiDataTable(Dictionary<string, List<int>> voti)
         {
             DataTable dt = new DataTable();
+
+            if (voti == null || voti.Count == 0)
+            {
+                voti = InitializeEmptyVoti();
+            }
+
+            Dictionary<string, List<int>> InitializeEmptyVoti()
+            {
+                return new Dictionary<string, List<int>>
+    {
+        { "Italiano", new List<int>() },
+        { "Storia", new List<int>() },
+        { "Matematica", new List<int>() },
+        { "Inglese", new List<int>() },
+        { "Informatica", new List<int>() },
+        { "Sistemi e Reti", new List<int>() },
+        { "Tpsit", new List<int>() },
+        { "Telecomunicazioni", new List<int>() }
+    };
+            }
 
             foreach (var subject in voti.Keys)
             {

@@ -49,11 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DetailsStudentTeacher.cs">
+    <Compile Include="DetailsPage.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DetailsStudentTeacher.Designer.cs">
-      <DependentUpon>DetailsStudentTeacher.cs</DependentUpon>
+    <Compile Include="DetailsPage.Designer.cs">
+      <DependentUpon>DetailsPage.cs</DependentUpon>
     </Compile>
     <Compile Include="LoginPage1.cs">
       <SubType>Form</SubType>
@@ -76,8 +76,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="DetailsStudentTeacher.resx">
-      <DependentUpon>DetailsStudentTeacher.cs</DependentUpon>
+    <EmbeddedResource Include="DetailsPage.resx">
+      <DependentUpon>DetailsPage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GridViewTeacher.resx">
       <DependentUpon>GridViewTeacher.cs</DependentUpon>

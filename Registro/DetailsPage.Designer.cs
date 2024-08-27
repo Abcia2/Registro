@@ -1,6 +1,6 @@
 ﻿namespace Registro
 {
-    partial class DetailsStudentTeacher
+    partial class DetailsPage
     {
         /// <summary>
         /// Required designer variable.

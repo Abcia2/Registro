@@ -6320,5 +6320,23 @@
         2
       ]
     }
+  },
+  {
+    "Matricola": 8888,
+    "Nome": "dvdv",
+    "Cognome": "dvdv",
+    "data_nascita": "0001-01-01T00:00:00",
+    "luogo_nascita": "dvdvv",
+    "Classe": "dvdv",
+    "Voti": null
+  },
+  {
+    "Matricola": 8888,
+    "Nome": "dvdv",
+    "Cognome": "dvdv",
+    "data_nascita": "0001-01-01T00:00:00",
+    "luogo_nascita": "dvdvv",
+    "Classe": null,
+    "Voti": {}
   }
 ]

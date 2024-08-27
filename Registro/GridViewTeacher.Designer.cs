@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.AddButton = new System.Windows.Forms.Button();
+            this.LogOutButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,11 +51,35 @@
             this.dataGridView1.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.ShowStudentDetails);
             this.dataGridView1.CellContextMenuStripChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.ShowStudentDetails);
             // 
+            // AddButton
+            // 
+            this.AddButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AddButton.Location = new System.Drawing.Point(662, 495);
+            this.AddButton.Name = "AddButton";
+            this.AddButton.Size = new System.Drawing.Size(160, 53);
+            this.AddButton.TabIndex = 5;
+            this.AddButton.Text = "Add Student";
+            this.AddButton.UseVisualStyleBackColor = true;
+            this.AddButton.Click += new System.EventHandler(this.AddButton_Click);
+            // 
+            // LogOutButton
+            // 
+            this.LogOutButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LogOutButton.Location = new System.Drawing.Point(828, 495);
+            this.LogOutButton.Name = "LogOutButton";
+            this.LogOutButton.Size = new System.Drawing.Size(160, 53);
+            this.LogOutButton.TabIndex = 6;
+            this.LogOutButton.Text = "LogOut";
+            this.LogOutButton.UseVisualStyleBackColor = true;
+            this.LogOutButton.Click += new System.EventHandler(this.button1_Click);
+            // 
             // GridViewTeacher
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1000, 571);
+            this.Controls.Add(this.LogOutButton);
+            this.Controls.Add(this.AddButton);
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "GridViewTeacher";
@@ -66,6 +92,8 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button AddButton;
+        private System.Windows.Forms.Button LogOutButton;
     }
 }
 

@@ -23,7 +23,7 @@ namespace Registro
 
             GridViewTeacherVar.Show();
 
-            //this.Close();
+            this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -32,7 +32,7 @@ namespace Registro
 
             LoginPage2var.Show();
 
-            //this.Close();
+            this.Close();
         }
     }
 }
