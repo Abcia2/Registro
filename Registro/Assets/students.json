@@ -1,12 +1,12 @@
 [
   {
-    "matricola": 513272,
-    "nome": "Aurora",
-    "cognome": "Rossi",
-    "data_nascita": "2008-11-22T23:00:00.000Z",
+    "Matricola": 513272,
+    "Nome": "Aurora",
+    "Cognome": "Rossi",
+    "data_nascita": "2008-11-22T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         5,
         2,
@@ -58,13 +58,13 @@
     }
   },
   {
-    "matricola": 562839,
-    "nome": "Beatrice",
-    "cognome": "Russo",
-    "data_nascita": "2008-12-19T23:00:00.000Z",
+    "Matricola": 562839,
+    "Nome": "Simone",
+    "Cognome": "Russo",
+    "data_nascita": "2008-06-13T23:00:00",
     "luogo_nascita": "Padova",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         9,
@@ -116,13 +116,13 @@
     }
   },
   {
-    "matricola": 359938,
-    "nome": "Camilla",
-    "cognome": "Colombo",
-    "data_nascita": "2008-02-27T23:00:00.000Z",
+    "Matricola": 359938,
+    "Nome": "Camilla",
+    "Cognome": "Colombo",
+    "data_nascita": "2008-02-27T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         5,
         2,
@@ -174,13 +174,13 @@
     }
   },
   {
-    "matricola": 462284,
-    "nome": "Sofia",
-    "cognome": "Esposito",
-    "data_nascita": "2007-07-15T22:00:00.000Z",
+    "Matricola": 462284,
+    "Nome": "Sofia",
+    "Cognome": "Esposito",
+    "data_nascita": "2007-07-15T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         8,
         2,
@@ -232,13 +232,13 @@
     }
   },
   {
-    "matricola": 467199,
-    "nome": "Giulia",
-    "cognome": "Bianchi",
-    "data_nascita": "2008-08-23T22:00:00.000Z",
+    "Matricola": 467199,
+    "Nome": "Giulia",
+    "Cognome": "Bianchi",
+    "data_nascita": "2008-08-23T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         9,
@@ -290,13 +290,13 @@
     }
   },
   {
-    "matricola": 527672,
-    "nome": "Emma",
-    "cognome": "Ferrari",
-    "data_nascita": "2007-11-11T23:00:00.000Z",
+    "Matricola": 527672,
+    "Nome": "Emma",
+    "Cognome": "Ferrari",
+    "data_nascita": "2007-11-11T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         9,
@@ -348,13 +348,13 @@
     }
   },
   {
-    "matricola": 427008,
-    "nome": "Elena",
-    "cognome": "Romano",
-    "data_nascita": "2008-02-19T23:00:00.000Z",
+    "Matricola": 427008,
+    "Nome": "Elena",
+    "Cognome": "Romano",
+    "data_nascita": "2008-02-19T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         5,
         3,
@@ -406,13 +406,13 @@
     }
   },
   {
-    "matricola": 652662,
-    "nome": "Alice",
-    "cognome": "Ricci",
-    "data_nascita": "2008-01-27T23:00:00.000Z",
+    "Matricola": 652662,
+    "Nome": "Alice",
+    "Cognome": "Ricci",
+    "data_nascita": "2008-01-27T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         6,
         9,
@@ -464,13 +464,13 @@
     }
   },
   {
-    "matricola": 498982,
-    "nome": "Martina",
-    "cognome": "Lombardi",
-    "data_nascita": "2007-04-12T22:00:00.000Z",
+    "Matricola": 498982,
+    "Nome": "Martina",
+    "Cognome": "Lombardi",
+    "data_nascita": "2007-04-12T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         4,
         2,
@@ -522,13 +522,13 @@
     }
   },
   {
-    "matricola": 371997,
-    "nome": "Chiara",
-    "cognome": "Mancini",
-    "data_nascita": "2008-12-21T23:00:00.000Z",
+    "Matricola": 371997,
+    "Nome": "Chiara",
+    "Cognome": "Mancini",
+    "data_nascita": "2008-12-21T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         4,
@@ -580,13 +580,13 @@
     }
   },
   {
-    "matricola": 172445,
-    "nome": "Giorgia",
-    "cognome": "Marino",
-    "data_nascita": "2007-03-17T23:00:00.000Z",
+    "Matricola": 172445,
+    "Nome": "Giorgia",
+    "Cognome": "Marino",
+    "data_nascita": "2007-03-17T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         8,
         7,
@@ -638,13 +638,13 @@
     }
   },
   {
-    "matricola": 144527,
-    "nome": "Greta",
-    "cognome": "Greco",
-    "data_nascita": "2008-06-07T22:00:00.000Z",
+    "Matricola": 144527,
+    "Nome": "Greta",
+    "Cognome": "Greco",
+    "data_nascita": "2008-06-07T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         6,
@@ -696,13 +696,13 @@
     }
   },
   {
-    "matricola": 466057,
-    "nome": "Sara",
-    "cognome": "Bruno",
-    "data_nascita": "2007-08-09T22:00:00.000Z",
+    "Matricola": 466057,
+    "Nome": "Sara",
+    "Cognome": "Bruno",
+    "data_nascita": "2007-08-09T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         5,
         2,
@@ -754,13 +754,13 @@
     }
   },
   {
-    "matricola": 322233,
-    "nome": "Anna",
-    "cognome": "Conti",
-    "data_nascita": "2007-11-15T23:00:00.000Z",
+    "Matricola": 322233,
+    "Nome": "Anna",
+    "Cognome": "Conti",
+    "data_nascita": "2007-11-15T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -812,13 +812,13 @@
     }
   },
   {
-    "matricola": 613038,
-    "nome": "Francesca",
-    "cognome": "De Luca",
-    "data_nascita": "2007-06-13T22:00:00.000Z",
+    "Matricola": 613038,
+    "Nome": "Francesca",
+    "Cognome": "De Luca",
+    "data_nascita": "2007-06-13T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         7,
         2,
@@ -870,13 +870,13 @@
     }
   },
   {
-    "matricola": 320546,
-    "nome": "Irene",
-    "cognome": "Cairo",
-    "data_nascita": "2007-03-03T23:00:00.000Z",
+    "Matricola": 320546,
+    "Nome": "Irene",
+    "Cognome": "Cairo",
+    "data_nascita": "2007-03-03T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         5,
@@ -928,13 +928,13 @@
     }
   },
   {
-    "matricola": 271475,
-    "nome": "Valeria",
-    "cognome": "Costa",
-    "data_nascita": "2007-12-20T23:00:00.000Z",
+    "Matricola": 271475,
+    "Nome": "Valeria",
+    "Cognome": "Costa",
+    "data_nascita": "2007-12-20T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         8,
         9,
@@ -986,13 +986,13 @@
     }
   },
   {
-    "matricola": 413502,
-    "nome": "Nicole",
-    "cognome": "Fontana",
-    "data_nascita": "2008-11-18T23:00:00.000Z",
+    "Matricola": 413502,
+    "Nome": "Nicole",
+    "Cognome": "Fontana",
+    "data_nascita": "2008-11-18T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         8,
         2,
@@ -1044,13 +1044,13 @@
     }
   },
   {
-    "matricola": 246951,
-    "nome": "Giorgia",
-    "cognome": "Esposito",
-    "data_nascita": "2007-06-30T22:00:00.000Z",
+    "Matricola": 246951,
+    "Nome": "Giorgia",
+    "Cognome": "Esposito",
+    "data_nascita": "2007-06-30T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         9,
@@ -1102,13 +1102,13 @@
     }
   },
   {
-    "matricola": 530307,
-    "nome": "Elisa",
-    "cognome": "Bellanova",
-    "data_nascita": "2008-05-10T22:00:00.000Z",
+    "Matricola": 530307,
+    "Nome": "Elisa",
+    "Cognome": "Bellanova",
+    "data_nascita": "2008-05-10T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         4,
@@ -1160,13 +1160,13 @@
     }
   },
   {
-    "matricola": 294568,
-    "nome": "Federica",
-    "cognome": "Toscano",
-    "data_nascita": "2007-06-05T22:00:00.000Z",
+    "Matricola": 294568,
+    "Nome": "Federica",
+    "Cognome": "Toscano",
+    "data_nascita": "2007-06-05T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         8,
         6,
@@ -1218,13 +1218,13 @@
     }
   },
   {
-    "matricola": 215489,
-    "nome": "Roberta",
-    "cognome": "Lombardo",
-    "data_nascita": "2007-05-11T22:00:00.000Z",
+    "Matricola": 215489,
+    "Nome": "Roberta",
+    "Cognome": "Lombardo",
+    "data_nascita": "2007-05-11T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         7,
@@ -1276,13 +1276,13 @@
     }
   },
   {
-    "matricola": 481701,
-    "nome": "Lucia",
-    "cognome": "Campano",
-    "data_nascita": "2008-11-09T23:00:00.000Z",
+    "Matricola": 481701,
+    "Nome": "Lucia",
+    "Cognome": "Campano",
+    "data_nascita": "2008-11-09T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -1334,13 +1334,13 @@
     }
   },
   {
-    "matricola": 455963,
-    "nome": "Alessandra",
-    "cognome": "Pugliese",
-    "data_nascita": "2007-12-06T23:00:00.000Z",
+    "Matricola": 455963,
+    "Nome": "Alessandra",
+    "Cognome": "Pugliese",
+    "data_nascita": "2007-12-06T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         3,
         8,
@@ -1392,13 +1392,13 @@
     }
   },
   {
-    "matricola": 190196,
-    "nome": "Ilaria",
-    "cognome": "Veneto",
-    "data_nascita": "2008-08-15T22:00:00.000Z",
+    "Matricola": 190196,
+    "Nome": "Ilaria",
+    "Cognome": "Veneto",
+    "data_nascita": "2008-08-15T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         2,
@@ -1450,13 +1450,13 @@
     }
   },
   {
-    "matricola": 303451,
-    "nome": "Samantha",
-    "cognome": "Calabrese",
-    "data_nascita": "2007-02-24T23:00:00.000Z",
+    "Matricola": 303451,
+    "Nome": "Samantha",
+    "Cognome": "Calabrese",
+    "data_nascita": "2007-02-24T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         4,
         3,
@@ -1508,13 +1508,13 @@
     }
   },
   {
-    "matricola": 379320,
-    "nome": "Veronica",
-    "cognome": "Siciliano",
-    "data_nascita": "2007-01-04T23:00:00.000Z",
+    "Matricola": 379320,
+    "Nome": "Veronica",
+    "Cognome": "Siciliano",
+    "data_nascita": "2007-01-04T23:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         5,
@@ -1566,13 +1566,13 @@
     }
   },
   {
-    "matricola": 124860,
-    "nome": "Alessia",
-    "cognome": "Piemontese",
-    "data_nascita": "2008-10-15T22:00:00.000Z",
+    "Matricola": 124860,
+    "Nome": "Alessia",
+    "Cognome": "Piemontese",
+    "data_nascita": "2008-10-15T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         9,
         2,
@@ -1624,13 +1624,13 @@
     }
   },
   {
-    "matricola": 476193,
-    "nome": "Silvia",
-    "cognome": "Sardo",
-    "data_nascita": "2008-05-10T22:00:00.000Z",
+    "Matricola": 476193,
+    "Nome": "Silvia",
+    "Cognome": "Sardo",
+    "data_nascita": "2008-05-10T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         3,
         7,
@@ -1682,13 +1682,13 @@
     }
   },
   {
-    "matricola": 371807,
-    "nome": "Noemi",
-    "cognome": "Marchigiano",
-    "data_nascita": "2008-10-06T22:00:00.000Z",
+    "Matricola": 371807,
+    "Nome": "Noemi",
+    "Cognome": "Marchigiano",
+    "data_nascita": "2008-10-06T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         4,
         2,
@@ -1740,13 +1740,13 @@
     }
   },
   {
-    "matricola": 635804,
-    "nome": "Ambra",
-    "cognome": "Fabbri",
-    "data_nascita": "2007-01-09T23:00:00.000Z",
+    "Matricola": 635804,
+    "Nome": "Ambra",
+    "Cognome": "Fabbri",
+    "data_nascita": "2007-01-09T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         3,
         7,
@@ -1798,13 +1798,13 @@
     }
   },
   {
-    "matricola": 284001,
-    "nome": "Ginevra",
-    "cognome": "Ferrari",
-    "data_nascita": "2007-04-01T22:00:00.000Z",
+    "Matricola": 284001,
+    "Nome": "Ginevra",
+    "Cognome": "Ferrari",
+    "data_nascita": "2007-04-01T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         4,
         4,
@@ -1856,13 +1856,13 @@
     }
   },
   {
-    "matricola": 536705,
-    "nome": "Ludovica",
-    "cognome": "Rossi (rosso)",
-    "data_nascita": "2008-03-21T23:00:00.000Z",
+    "Matricola": 536705,
+    "Nome": "Ludovica",
+    "Cognome": "Rossi (rosso)",
+    "data_nascita": "2008-03-21T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         3,
@@ -1914,13 +1914,13 @@
     }
   },
   {
-    "matricola": 374225,
-    "nome": "Rebecca",
-    "cognome": "Bianchi (bianco)",
-    "data_nascita": "2008-08-21T22:00:00.000Z",
+    "Matricola": 374225,
+    "Nome": "Rebecca",
+    "Cognome": "Bianchi (bianco)",
+    "data_nascita": "2008-08-21T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         9,
         8,
@@ -1972,13 +1972,13 @@
     }
   },
   {
-    "matricola": 348782,
-    "nome": "Martina",
-    "cognome": "Barbieri",
-    "data_nascita": "2007-02-20T23:00:00.000Z",
+    "Matricola": 348782,
+    "Nome": "Martina",
+    "Cognome": "Barbieri",
+    "data_nascita": "2007-02-20T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         6,
         6,
@@ -2030,13 +2030,13 @@
     }
   },
   {
-    "matricola": 602955,
-    "nome": "Cecilia",
-    "cognome": "Sartori",
-    "data_nascita": "2007-07-31T22:00:00.000Z",
+    "Matricola": 602955,
+    "Nome": "Cecilia",
+    "Cognome": "Sartori",
+    "data_nascita": "2007-07-31T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         3,
         2,
@@ -2088,13 +2088,13 @@
     }
   },
   {
-    "matricola": 343917,
-    "nome": "Eleonora",
-    "cognome": "Fattori",
-    "data_nascita": "2007-02-09T23:00:00.000Z",
+    "Matricola": 343917,
+    "Nome": "Eleonora",
+    "Cognome": "Fattori",
+    "data_nascita": "2007-02-09T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         6,
         4,
@@ -2146,13 +2146,13 @@
     }
   },
   {
-    "matricola": 385969,
-    "nome": "Cristina",
-    "cognome": "Molinari",
-    "data_nascita": "2008-01-08T23:00:00.000Z",
+    "Matricola": 385969,
+    "Nome": "Cristina",
+    "Cognome": "Molinari",
+    "data_nascita": "2008-01-08T23:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         5,
         2,
@@ -2204,13 +2204,13 @@
     }
   },
   {
-    "matricola": 486972,
-    "nome": "Gaia",
-    "cognome": "Fornari",
-    "data_nascita": "2007-02-16T23:00:00.000Z",
+    "Matricola": 486972,
+    "Nome": "Gaia",
+    "Cognome": "Fornari",
+    "data_nascita": "2007-02-16T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         3,
@@ -2262,13 +2262,13 @@
     }
   },
   {
-    "matricola": 563789,
-    "nome": "Arianna",
-    "cognome": "Pastori",
-    "data_nascita": "2007-02-02T23:00:00.000Z",
+    "Matricola": 563789,
+    "Nome": "Arianna",
+    "Cognome": "Pastori",
+    "data_nascita": "2007-02-02T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -2320,13 +2320,13 @@
     }
   },
   {
-    "matricola": 315892,
-    "nome": "Aurora",
-    "cognome": "Rossi (rosso)",
-    "data_nascita": "2007-06-01T22:00:00.000Z",
+    "Matricola": 315892,
+    "Nome": "Aurora",
+    "Cognome": "Rossi (rosso)",
+    "data_nascita": "2007-06-01T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         5,
         5,
@@ -2378,13 +2378,13 @@
     }
   },
   {
-    "matricola": 291420,
-    "nome": "Beatrice",
-    "cognome": "Bianchi (bianco)",
-    "data_nascita": "2008-10-14T22:00:00.000Z",
+    "Matricola": 291420,
+    "Nome": "Beatrice",
+    "Cognome": "Bianchi (bianco)",
+    "data_nascita": "2008-10-14T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         7,
         2,
@@ -2436,13 +2436,13 @@
     }
   },
   {
-    "matricola": 149445,
-    "nome": "Camilla",
-    "cognome": "Nero",
-    "data_nascita": "2007-06-11T22:00:00.000Z",
+    "Matricola": 149445,
+    "Nome": "Camilla",
+    "Cognome": "Nero",
+    "data_nascita": "2007-06-11T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         5,
@@ -2494,13 +2494,13 @@
     }
   },
   {
-    "matricola": 289733,
-    "nome": "Sofia",
-    "cognome": "Bruno",
-    "data_nascita": "2008-07-24T22:00:00.000Z",
+    "Matricola": 289733,
+    "Nome": "Sofia",
+    "Cognome": "Bruno",
+    "data_nascita": "2008-07-24T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         9,
         9,
@@ -2552,13 +2552,13 @@
     }
   },
   {
-    "matricola": 526452,
-    "nome": "Giulia",
-    "cognome": "Biondi",
-    "data_nascita": "2007-11-15T23:00:00.000Z",
+    "Matricola": 526452,
+    "Nome": "Giulia",
+    "Cognome": "Biondi",
+    "data_nascita": "2007-11-15T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         2,
@@ -2610,13 +2610,13 @@
     }
   },
   {
-    "matricola": 641046,
-    "nome": "Emma",
-    "cognome": "Russo",
-    "data_nascita": "2008-10-11T22:00:00.000Z",
+    "Matricola": 641046,
+    "Nome": "Emma",
+    "Cognome": "Russo",
+    "data_nascita": "2008-10-11T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         8,
         7,
@@ -2668,13 +2668,13 @@
     }
   },
   {
-    "matricola": 501011,
-    "nome": "Elena",
-    "cognome": "Piccolo",
-    "data_nascita": "2007-10-12T22:00:00.000Z",
+    "Matricola": 501011,
+    "Nome": "Elena",
+    "Cognome": "Piccolo",
+    "data_nascita": "2007-10-12T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         7,
         4,
@@ -2726,13 +2726,13 @@
     }
   },
   {
-    "matricola": 408505,
-    "nome": "Alice",
-    "cognome": "Grande",
-    "data_nascita": "2007-03-01T23:00:00.000Z",
+    "Matricola": 408505,
+    "Nome": "Alice",
+    "Cognome": "Grande",
+    "data_nascita": "2007-03-01T23:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         2,
@@ -2784,13 +2784,13 @@
     }
   },
   {
-    "matricola": 388039,
-    "nome": "Martina",
-    "cognome": "Gentile",
-    "data_nascita": "2008-10-13T22:00:00.000Z",
+    "Matricola": 388039,
+    "Nome": "Martina",
+    "Cognome": "Gentile",
+    "data_nascita": "2008-10-13T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         6,
         5,
@@ -2842,13 +2842,13 @@
     }
   },
   {
-    "matricola": 566159,
-    "nome": "Alessandro",
-    "cognome": "Forte",
-    "data_nascita": "2007-04-02T22:00:00.000Z",
+    "Matricola": 566159,
+    "Nome": "Alessandro",
+    "Cognome": "Forte",
+    "data_nascita": "2007-04-02T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         4,
         9,
@@ -2900,13 +2900,13 @@
     }
   },
   {
-    "matricola": 288525,
-    "nome": "Marco",
-    "cognome": "Coppola",
-    "data_nascita": "2007-09-13T22:00:00.000Z",
+    "Matricola": 288525,
+    "Nome": "Marco",
+    "Cognome": "Coppola",
+    "data_nascita": "2007-09-13T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         6,
         6,
@@ -2958,13 +2958,13 @@
     }
   },
   {
-    "matricola": 179623,
-    "nome": "Andrea",
-    "cognome": "Esposito",
-    "data_nascita": "2008-09-14T22:00:00.000Z",
+    "Matricola": 179623,
+    "Nome": "Andrea",
+    "Cognome": "Esposito",
+    "data_nascita": "2008-09-14T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         3,
@@ -3016,13 +3016,13 @@
     }
   },
   {
-    "matricola": 381631,
-    "nome": "Lorenzo",
-    "cognome": "Bellucci",
-    "data_nascita": "2008-08-25T22:00:00.000Z",
+    "Matricola": 381631,
+    "Nome": "Lorenzo",
+    "Cognome": "Bellucci",
+    "data_nascita": "2008-08-25T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         8,
@@ -3074,13 +3074,13 @@
     }
   },
   {
-    "matricola": 342205,
-    "nome": "Francesco",
-    "cognome": "Esposito",
-    "data_nascita": "2008-02-22T23:00:00.000Z",
+    "Matricola": 342205,
+    "Nome": "Francesco",
+    "Cognome": "Esposito",
+    "data_nascita": "2008-02-22T23:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         7,
         7,
@@ -3132,13 +3132,13 @@
     }
   },
   {
-    "matricola": 458185,
-    "nome": "Matteo",
-    "cognome": "Colombo",
-    "data_nascita": "2007-04-18T22:00:00.000Z",
+    "Matricola": 458185,
+    "Nome": "Matteo",
+    "Cognome": "Colombo",
+    "data_nascita": "2007-04-18T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         9,
         4,
@@ -3190,13 +3190,13 @@
     }
   },
   {
-    "matricola": 573508,
-    "nome": "Luca",
-    "cognome": "Esposito",
-    "data_nascita": "2007-05-13T22:00:00.000Z",
+    "Matricola": 573508,
+    "Nome": "Luca",
+    "Cognome": "Esposito",
+    "data_nascita": "2007-05-13T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         5,
@@ -3248,13 +3248,13 @@
     }
   },
   {
-    "matricola": 436240,
-    "nome": "Daniele",
-    "cognome": "Russo",
-    "data_nascita": "2008-06-09T22:00:00.000Z",
+    "Matricola": 436240,
+    "Nome": "Daniele",
+    "Cognome": "Russo",
+    "data_nascita": "2008-06-09T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         4,
         6,
@@ -3306,13 +3306,13 @@
     }
   },
   {
-    "matricola": 403864,
-    "nome": "Gabriele",
-    "cognome": "Esposito",
-    "data_nascita": "2007-06-19T22:00:00.000Z",
+    "Matricola": 403864,
+    "Nome": "Gabriele",
+    "Cognome": "Esposito",
+    "data_nascita": "2007-06-19T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -3364,13 +3364,13 @@
     }
   },
   {
-    "matricola": 193401,
-    "nome": "Riccardo",
-    "cognome": "Bianchi",
-    "data_nascita": "2008-05-02T22:00:00.000Z",
+    "Matricola": 193401,
+    "Nome": "Riccardo",
+    "Cognome": "Bianchi",
+    "data_nascita": "2008-05-02T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         3,
         4,
@@ -3422,13 +3422,13 @@
     }
   },
   {
-    "matricola": 287688,
-    "nome": "Nicolò",
-    "cognome": "Russo",
-    "data_nascita": "2007-09-03T22:00:00.000Z",
+    "Matricola": 287688,
+    "Nome": "Nicolò",
+    "Cognome": "Russo",
+    "data_nascita": "2007-09-03T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         9,
         6,
@@ -3480,13 +3480,13 @@
     }
   },
   {
-    "matricola": 145797,
-    "nome": "Davide",
-    "cognome": "Rossi",
-    "data_nascita": "2007-03-05T23:00:00.000Z",
+    "Matricola": 145797,
+    "Nome": "Davide",
+    "Cognome": "Rossi",
+    "data_nascita": "2007-03-05T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -3538,13 +3538,13 @@
     }
   },
   {
-    "matricola": 616630,
-    "nome": "Simone",
-    "cognome": "Russo",
-    "data_nascita": "2007-05-24T22:00:00.000Z",
+    "Matricola": 616630,
+    "Nome": "Simone",
+    "Cognome": "Russo",
+    "data_nascita": "2007-05-24T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         6,
         2,
@@ -3596,13 +3596,13 @@
     }
   },
   {
-    "matricola": 341281,
-    "nome": "Fabio",
-    "cognome": "Colombo",
-    "data_nascita": "2007-06-08T22:00:00.000Z",
+    "Matricola": 341281,
+    "Nome": "Fabio",
+    "Cognome": "Colombo",
+    "data_nascita": "2007-06-08T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         7,
@@ -3654,13 +3654,13 @@
     }
   },
   {
-    "matricola": 640790,
-    "nome": "Alberto",
-    "cognome": "Esposito",
-    "data_nascita": "2007-08-24T22:00:00.000Z",
+    "Matricola": 640790,
+    "Nome": "Alberto",
+    "Cognome": "Esposito",
+    "data_nascita": "2007-08-24T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -3712,13 +3712,13 @@
     }
   },
   {
-    "matricola": 135944,
-    "nome": "Gianmarco",
-    "cognome": "Bianchi",
-    "data_nascita": "2007-06-04T22:00:00.000Z",
+    "Matricola": 135944,
+    "Nome": "Gianmarco",
+    "Cognome": "Bianchi",
+    "data_nascita": "2007-06-04T22:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -3770,13 +3770,13 @@
     }
   },
   {
-    "matricola": 346124,
-    "nome": "Enrico",
-    "cognome": "Ferrari",
-    "data_nascita": "2007-12-26T23:00:00.000Z",
+    "Matricola": 346124,
+    "Nome": "Enrico",
+    "Cognome": "Ferrari",
+    "data_nascita": "2007-12-26T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         6,
         2,
@@ -3828,13 +3828,13 @@
     }
   },
   {
-    "matricola": 343774,
-    "nome": "Mattia",
-    "cognome": "Romano",
-    "data_nascita": "2007-08-20T22:00:00.000Z",
+    "Matricola": 343774,
+    "Nome": "Mattia",
+    "Cognome": "Romano",
+    "data_nascita": "2007-08-20T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         8,
         6,
@@ -3886,13 +3886,13 @@
     }
   },
   {
-    "matricola": 404233,
-    "nome": "Edoardo",
-    "cognome": "Ricci",
-    "data_nascita": "2007-09-19T22:00:00.000Z",
+    "Matricola": 404233,
+    "Nome": "Edoardo",
+    "Cognome": "Ricci",
+    "data_nascita": "2007-09-19T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         9,
         2,
@@ -3944,13 +3944,13 @@
     }
   },
   {
-    "matricola": 160639,
-    "nome": "Tommaso",
-    "cognome": "Lombardi",
-    "data_nascita": "2007-12-16T23:00:00.000Z",
+    "Matricola": 160639,
+    "Nome": "Tommaso",
+    "Cognome": "Lombardi",
+    "data_nascita": "2007-12-16T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         9,
         3,
@@ -4002,13 +4002,13 @@
     }
   },
   {
-    "matricola": 473210,
-    "nome": "Alessio",
-    "cognome": "Mancini",
-    "data_nascita": "2008-07-05T22:00:00.000Z",
+    "Matricola": 473210,
+    "Nome": "Alessio",
+    "Cognome": "Mancini",
+    "data_nascita": "2008-07-05T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         4,
         2,
@@ -4060,13 +4060,13 @@
     }
   },
   {
-    "matricola": 498327,
-    "nome": "Samuele",
-    "cognome": "Marino",
-    "data_nascita": "2007-08-11T22:00:00.000Z",
+    "Matricola": 498327,
+    "Nome": "Samuele",
+    "Cognome": "Marino",
+    "data_nascita": "2007-08-11T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         7,
@@ -4118,13 +4118,13 @@
     }
   },
   {
-    "matricola": 516396,
-    "nome": "Filippo",
-    "cognome": "Greco",
-    "data_nascita": "2007-10-01T22:00:00.000Z",
+    "Matricola": 516396,
+    "Nome": "Filippo",
+    "Cognome": "Greco",
+    "data_nascita": "2007-10-01T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         4,
         5,
@@ -4176,13 +4176,13 @@
     }
   },
   {
-    "matricola": 143638,
-    "nome": "Giovanni",
-    "cognome": "Bruno",
-    "data_nascita": "2008-07-02T22:00:00.000Z",
+    "Matricola": 143638,
+    "Nome": "Giovanni",
+    "Cognome": "Bruno",
+    "data_nascita": "2008-07-02T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         3,
         9,
@@ -4234,13 +4234,13 @@
     }
   },
   {
-    "matricola": 223349,
-    "nome": "Federico",
-    "cognome": "Conti",
-    "data_nascita": "2007-07-06T22:00:00.000Z",
+    "Matricola": 223349,
+    "Nome": "Federico",
+    "Cognome": "Conti",
+    "data_nascita": "2007-07-06T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         5,
@@ -4292,13 +4292,13 @@
     }
   },
   {
-    "matricola": 590029,
-    "nome": "Luca",
-    "cognome": "De Luca",
-    "data_nascita": "2007-12-04T23:00:00.000Z",
+    "Matricola": 590029,
+    "Nome": "Luca",
+    "Cognome": "De Luca",
+    "data_nascita": "2007-12-04T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -4350,13 +4350,13 @@
     }
   },
   {
-    "matricola": 321566,
-    "nome": "Stefano",
-    "cognome": "Cairo",
-    "data_nascita": "2007-10-31T23:00:00.000Z",
+    "Matricola": 321566,
+    "Nome": "Stefano",
+    "Cognome": "Cairo",
+    "data_nascita": "2007-10-31T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         7,
         7,
@@ -4408,13 +4408,13 @@
     }
   },
   {
-    "matricola": 302221,
-    "nome": "Marco",
-    "cognome": "Costa",
-    "data_nascita": "2008-04-07T22:00:00.000Z",
+    "Matricola": 302221,
+    "Nome": "Marco",
+    "Cognome": "Costa",
+    "data_nascita": "2008-04-07T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         5,
         2,
@@ -4466,13 +4466,13 @@
     }
   },
   {
-    "matricola": 124682,
-    "nome": "Giacomo",
-    "cognome": "Fontana",
-    "data_nascita": "2008-01-04T23:00:00.000Z",
+    "Matricola": 124682,
+    "Nome": "Giacomo",
+    "Cognome": "Fontana",
+    "data_nascita": "2008-01-04T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         3,
         2,
@@ -4524,13 +4524,13 @@
     }
   },
   {
-    "matricola": 517270,
-    "nome": "Valerio",
-    "cognome": "Esposito",
-    "data_nascita": "2007-06-04T22:00:00.000Z",
+    "Matricola": 517270,
+    "Nome": "Valerio",
+    "Cognome": "Esposito",
+    "data_nascita": "2007-06-04T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -4582,13 +4582,13 @@
     }
   },
   {
-    "matricola": 313052,
-    "nome": "Francesco",
-    "cognome": "Bellanova",
-    "data_nascita": "2008-09-26T22:00:00.000Z",
+    "Matricola": 313052,
+    "Nome": "Francesco",
+    "Cognome": "Bellanova",
+    "data_nascita": "2008-09-26T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         5,
         3,
@@ -4640,13 +4640,13 @@
     }
   },
   {
-    "matricola": 249128,
-    "nome": "Elia",
-    "cognome": "Toscano",
-    "data_nascita": "2008-03-20T23:00:00.000Z",
+    "Matricola": 249128,
+    "Nome": "Elia",
+    "Cognome": "Toscano",
+    "data_nascita": "2008-03-20T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         9,
@@ -4698,13 +4698,13 @@
     }
   },
   {
-    "matricola": 609073,
-    "nome": "Lorenzo",
-    "cognome": "Lombardo",
-    "data_nascita": "2008-12-01T23:00:00.000Z",
+    "Matricola": 609073,
+    "Nome": "Lorenzo",
+    "Cognome": "Lombardo",
+    "data_nascita": "2008-12-01T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         5,
         9,
@@ -4756,13 +4756,13 @@
     }
   },
   {
-    "matricola": 539833,
-    "nome": "Leonardo",
-    "cognome": "Campano",
-    "data_nascita": "2008-05-08T22:00:00.000Z",
+    "Matricola": 539833,
+    "Nome": "Leonardo",
+    "Cognome": "Campano",
+    "data_nascita": "2008-05-08T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         7,
@@ -4814,13 +4814,13 @@
     }
   },
   {
-    "matricola": 581407,
-    "nome": "Gabriele",
-    "cognome": "Pugliese",
-    "data_nascita": "2007-06-26T22:00:00.000Z",
+    "Matricola": 581407,
+    "Nome": "Gabriele",
+    "Cognome": "Pugliese",
+    "data_nascita": "2007-06-26T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         5,
         2,
@@ -4872,13 +4872,13 @@
     }
   },
   {
-    "matricola": 212270,
-    "nome": "Cristian",
-    "cognome": "Veneto",
-    "data_nascita": "2008-05-23T22:00:00.000Z",
+    "Matricola": 212270,
+    "Nome": "Cristian",
+    "Cognome": "Veneto",
+    "data_nascita": "2008-05-23T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         8,
         6,
@@ -4930,13 +4930,13 @@
     }
   },
   {
-    "matricola": 263181,
-    "nome": "Andrea",
-    "cognome": "Calabrese",
-    "data_nascita": "2008-11-16T23:00:00.000Z",
+    "Matricola": 263181,
+    "Nome": "Andrea",
+    "Cognome": "Calabrese",
+    "data_nascita": "2008-11-16T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         4,
         2,
@@ -4988,13 +4988,13 @@
     }
   },
   {
-    "matricola": 635033,
-    "nome": "Giorgio",
-    "cognome": "Siciliano",
-    "data_nascita": "2007-12-15T23:00:00.000Z",
+    "Matricola": 635033,
+    "Nome": "Giorgio",
+    "Cognome": "Siciliano",
+    "data_nascita": "2007-12-15T23:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         3,
@@ -5046,13 +5046,13 @@
     }
   },
   {
-    "matricola": 264490,
-    "nome": "Mattia",
-    "cognome": "Piemontese",
-    "data_nascita": "2007-10-11T22:00:00.000Z",
+    "Matricola": 264490,
+    "Nome": "Mattia",
+    "Cognome": "Piemontese",
+    "data_nascita": "2007-10-11T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         8,
         4,
@@ -5104,13 +5104,13 @@
     }
   },
   {
-    "matricola": 141606,
-    "nome": "Daniele",
-    "cognome": "Sardo",
-    "data_nascita": "2007-03-17T23:00:00.000Z",
+    "Matricola": 141606,
+    "Nome": "Daniele",
+    "Cognome": "Sardo",
+    "data_nascita": "2007-03-17T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         4,
         9,
@@ -5162,13 +5162,13 @@
     }
   },
   {
-    "matricola": 153949,
-    "nome": "Alessandro",
-    "cognome": "Marchigiano",
-    "data_nascita": "2007-04-16T22:00:00.000Z",
+    "Matricola": 153949,
+    "Nome": "Alessandro",
+    "Cognome": "Marchigiano",
+    "data_nascita": "2007-04-16T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         4,
         2,
@@ -5220,13 +5220,13 @@
     }
   },
   {
-    "matricola": 586611,
-    "nome": "Marco",
-    "cognome": "Fabbri",
-    "data_nascita": "2008-02-22T23:00:00.000Z",
+    "Matricola": 586611,
+    "Nome": "Marco",
+    "Cognome": "Fabbri",
+    "data_nascita": "2008-02-22T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -5278,13 +5278,13 @@
     }
   },
   {
-    "matricola": 140632,
-    "nome": "Andrea",
-    "cognome": "Ferrari",
-    "data_nascita": "2007-08-08T22:00:00.000Z",
+    "Matricola": 140632,
+    "Nome": "Andrea",
+    "Cognome": "Ferrari",
+    "data_nascita": "2007-08-08T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         3,
         7,
@@ -5336,13 +5336,13 @@
     }
   },
   {
-    "matricola": 533108,
-    "nome": "Lorenzo",
-    "cognome": "Rossi (rosso)",
-    "data_nascita": "2007-03-06T23:00:00.000Z",
+    "Matricola": 533108,
+    "Nome": "Lorenzo",
+    "Cognome": "Rossi (rosso)",
+    "data_nascita": "2007-03-06T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         2,
@@ -5394,13 +5394,13 @@
     }
   },
   {
-    "matricola": 364115,
-    "nome": "Francesco",
-    "cognome": "Bianchi (bianco)",
-    "data_nascita": "2008-12-04T23:00:00.000Z",
+    "Matricola": 364115,
+    "Nome": "Francesco",
+    "Cognome": "Bianchi (bianco)",
+    "data_nascita": "2008-12-04T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         6,
         2,
@@ -5452,13 +5452,13 @@
     }
   },
   {
-    "matricola": 600319,
-    "nome": "Matteo",
-    "cognome": "Barbieri",
-    "data_nascita": "2008-09-22T22:00:00.000Z",
+    "Matricola": 600319,
+    "Nome": "Matteo",
+    "Cognome": "Barbieri",
+    "data_nascita": "2008-09-22T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         4,
         7,
@@ -5510,13 +5510,13 @@
     }
   },
   {
-    "matricola": 324736,
-    "nome": "Luca",
-    "cognome": "Sartori",
-    "data_nascita": "2007-01-20T23:00:00.000Z",
+    "Matricola": 324736,
+    "Nome": "Luca",
+    "Cognome": "Sartori",
+    "data_nascita": "2007-01-20T23:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         5,
         5,
@@ -5568,13 +5568,13 @@
     }
   },
   {
-    "matricola": 399732,
-    "nome": "Daniele",
-    "cognome": "Fattori",
-    "data_nascita": "2007-04-20T22:00:00.000Z",
+    "Matricola": 399732,
+    "Nome": "Daniele",
+    "Cognome": "Fattori",
+    "data_nascita": "2007-04-20T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         7,
         2,
@@ -5626,13 +5626,13 @@
     }
   },
   {
-    "matricola": 445191,
-    "nome": "Gabriele",
-    "cognome": "Molinari",
-    "data_nascita": "2007-03-09T23:00:00.000Z",
+    "Matricola": 445191,
+    "Nome": "Gabriele",
+    "Cognome": "Molinari",
+    "data_nascita": "2007-03-09T23:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         7,
         9,
@@ -5684,13 +5684,13 @@
     }
   },
   {
-    "matricola": 160250,
-    "nome": "Riccardo",
-    "cognome": "Fornari",
-    "data_nascita": "2008-06-07T22:00:00.000Z",
+    "Matricola": 160250,
+    "Nome": "Riccardo",
+    "Cognome": "Fornari",
+    "data_nascita": "2008-06-07T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         3,
         6,
@@ -5742,13 +5742,13 @@
     }
   },
   {
-    "matricola": 242497,
-    "nome": "Andrea",
-    "cognome": "Pastori",
-    "data_nascita": "2008-12-14T23:00:00.000Z",
+    "Matricola": 242497,
+    "Nome": "Andrea",
+    "Cognome": "Pastori",
+    "data_nascita": "2008-12-14T23:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         3,
         4,
@@ -5800,13 +5800,13 @@
     }
   },
   {
-    "matricola": 165270,
-    "nome": "Alex",
-    "cognome": "Rossi (rosso)",
-    "data_nascita": "2008-04-26T22:00:00.000Z",
+    "Matricola": 165270,
+    "Nome": "Alex",
+    "Cognome": "Rossi (rosso)",
+    "data_nascita": "2008-04-26T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         9,
         5,
@@ -5858,13 +5858,13 @@
     }
   },
   {
-    "matricola": 289272,
-    "nome": "Samuele",
-    "cognome": "Bianchi (bianco)",
-    "data_nascita": "2007-01-09T23:00:00.000Z",
+    "Matricola": 289272,
+    "Nome": "Samuele",
+    "Cognome": "Bianchi (bianco)",
+    "data_nascita": "2007-01-09T23:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         6,
@@ -5916,13 +5916,13 @@
     }
   },
   {
-    "matricola": 609863,
-    "nome": "Daniele",
-    "cognome": "Nero",
-    "data_nascita": "2008-08-07T22:00:00.000Z",
+    "Matricola": 609863,
+    "Nome": "Daniele",
+    "Cognome": "Nero",
+    "data_nascita": "2008-08-07T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         2,
         6,
@@ -5974,13 +5974,13 @@
     }
   },
   {
-    "matricola": 301546,
-    "nome": "Marco",
-    "cognome": "Bruno",
-    "data_nascita": "2007-10-22T22:00:00.000Z",
+    "Matricola": 301546,
+    "Nome": "Marco",
+    "Cognome": "Bruno",
+    "data_nascita": "2007-10-22T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         4,
         5,
@@ -6032,13 +6032,13 @@
     }
   },
   {
-    "matricola": 385770,
-    "nome": "Mattia",
-    "cognome": "Biondi",
-    "data_nascita": "2008-02-09T23:00:00.000Z",
+    "Matricola": 385770,
+    "Nome": "Mattia",
+    "Cognome": "Biondi",
+    "data_nascita": "2008-02-09T23:00:00Z",
     "luogo_nascita": "Padova",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         4,
@@ -6090,13 +6090,13 @@
     }
   },
   {
-    "matricola": 404797,
-    "nome": "Gabriele",
-    "cognome": "Ricci",
-    "data_nascita": "2008-09-05T22:00:00.000Z",
+    "Matricola": 404797,
+    "Nome": "Gabriele",
+    "Cognome": "Ricci",
+    "data_nascita": "2008-09-05T22:00:00Z",
     "luogo_nascita": "Venezia",
-    "classe": "5CII",
-    "voti": {
+    "Classe": "5CII",
+    "Voti": {
       "Italiano": [
         2,
         7,
@@ -6148,13 +6148,13 @@
     }
   },
   {
-    "matricola": 543824,
-    "nome": "Valentina",
-    "cognome": "Lombardi",
-    "data_nascita": "2008-10-04T22:00:00.000Z",
+    "Matricola": 543824,
+    "Nome": "Valentina",
+    "Cognome": "Lombardi",
+    "data_nascita": "2008-10-04T22:00:00Z",
     "luogo_nascita": "Belluno",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         2,
         3,
@@ -6206,13 +6206,13 @@
     }
   },
   {
-    "matricola": 526284,
-    "nome": "Asia",
-    "cognome": "Mancini",
-    "data_nascita": "2007-06-01T22:00:00.000Z",
+    "Matricola": 526284,
+    "Nome": "Asia",
+    "Cognome": "Mancini",
+    "data_nascita": "2007-06-01T22:00:00Z",
     "luogo_nascita": "Vicenza",
-    "classe": "4CII",
-    "voti": {
+    "Classe": "4CII",
+    "Voti": {
       "Italiano": [
         9,
         7,
@@ -6264,13 +6264,13 @@
     }
   },
   {
-    "matricola": 645449,
-    "nome": "Sofia",
-    "cognome": "Marino",
-    "data_nascita": "2008-09-11T22:00:00.000Z",
+    "Matricola": 645449,
+    "Nome": "Sofia",
+    "Cognome": "Marino",
+    "data_nascita": "2008-09-11T22:00:00Z",
     "luogo_nascita": "Verona",
-    "classe": "3CII",
-    "voti": {
+    "Classe": "3CII",
+    "Voti": {
       "Italiano": [
         9,
         2,

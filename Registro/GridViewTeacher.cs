@@ -3,18 +3,20 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO;
 using System.Windows.Forms;
 using Newtonsoft.Json;
+using System.Diagnostics;
 
 namespace Registro
 {
     public partial class GridViewTeacher : Form
     {
         private List<Student> Students;
+        public Student TempStudentDetails;
         public GridViewTeacher()
         {
             InitializeComponent();
@@ -35,17 +37,21 @@ namespace Registro
             dataGridView1.Columns["Voti"].Visible = false;
         }
 
-        private void LoadButton_Click(object sender, EventArgs e)
+        private void ShowStudentDetails(object sender, DataGridViewCellEventArgs e)
         {
-            LoadGrid();
+            if (e.RowIndex >= 0)
+            {
+                Student SelectedStudent = Students[e.RowIndex];
+
+                var detailsForm = new DetailsStudentTeacher(SelectedStudent, Students);
+
+                if (detailsForm.ShowDialog() == DialogResult.OK)
+                {
+                    LoadGrid();
+                }
+            }
         }
 
-        private void SaveButton_Click(object sender, EventArgs e)
-        {
-            string JsonPath = @"..\..\assets\students.json";
-            string Data = JsonConvert.SerializeObject(Students, Formatting.Indented);
-            File.WriteAllText(JsonPath, Data);
-            MessageBox.Show("Data saved successfully!");
-        }
+
     }
 }
