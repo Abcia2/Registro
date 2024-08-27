@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DetailsPage));
             this.StudentNameText = new System.Windows.Forms.Label();
             this.StudentTextBox = new System.Windows.Forms.TextBox();
             this.TextBoxCognome = new System.Windows.Forms.TextBox();
@@ -124,7 +125,9 @@
             // dataGridViewVoti
             // 
             this.dataGridViewVoti.AllowUserToOrderColumns = true;
+            this.dataGridViewVoti.BackgroundColor = System.Drawing.Color.Firebrick;
             this.dataGridViewVoti.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewVoti.GridColor = System.Drawing.Color.DarkRed;
             this.dataGridViewVoti.Location = new System.Drawing.Point(25, 147);
             this.dataGridViewVoti.Name = "dataGridViewVoti";
             this.dataGridViewVoti.RowHeadersWidth = 51;
@@ -132,10 +135,11 @@
             this.dataGridViewVoti.Size = new System.Drawing.Size(763, 232);
             this.dataGridViewVoti.TabIndex = 9;
             // 
-            // DetailsStudentTeacher
+            // DetailsPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.IndianRed;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.dataGridViewVoti);
             this.Controls.Add(this.ClassTextBox);
@@ -146,7 +150,8 @@
             this.Controls.Add(this.TextBoxCognome);
             this.Controls.Add(this.StudentTextBox);
             this.Controls.Add(this.StudentNameText);
-            this.Name = "DetailsStudentTeacher";
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "DetailsPage";
             this.Text = "DetailsStudentTeacher";
             ((System.ComponentModel.ISupportInitialize)(this.MatricolaTextBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVoti)).EndInit();

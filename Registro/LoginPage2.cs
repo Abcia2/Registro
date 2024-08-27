@@ -57,5 +57,11 @@ namespace Registro
             }
         }
 
+        private void LoginPage2_FormClosing(object sender, FormClosedEventArgs e)
+        {
+            var LoginForm = new LoginPage1();
+            LoginForm.Show();
+            return;
+        }
     }
 }
