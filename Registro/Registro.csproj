@@ -55,6 +55,18 @@
     <Compile Include="DetailsStudentTeacher.Designer.cs">
       <DependentUpon>DetailsStudentTeacher.cs</DependentUpon>
     </Compile>
+    <Compile Include="LoginPage1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage1.Designer.cs">
+      <DependentUpon>LoginPage1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage2.Designer.cs">
+      <DependentUpon>LoginPage2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Student.cs" />
     <Compile Include="GridViewTeacher.cs">
       <SubType>Form</SubType>
@@ -69,6 +81,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GridViewTeacher.resx">
       <DependentUpon>GridViewTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage1.resx">
+      <DependentUpon>LoginPage1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage2.resx">
+      <DependentUpon>LoginPage2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

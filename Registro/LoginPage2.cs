@@ -1,29 +1,29 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.Json;
-using System.Diagnostics;
 
 namespace Registro
 {
-    public partial class GridViewTeacher : Form
+    public partial class LoginPage2 : Form
     {
         private List<Student> Students;
         public Student TempStudentDetails;
-        public GridViewTeacher()
+        public LoginPage2()
         {
             InitializeComponent();
-            LoadGrid();
+            LoadJson();
         }
 
-        public void LoadGrid()
+        public void LoadJson()
         {
             string JsonPath = @"..\..\assets\students.json";
             string Data = File.ReadAllText(JsonPath);
@@ -31,27 +31,24 @@ namespace Registro
 
             var ListToAdd = new BindingList<Student>(Students);
             var source = new BindingSource(ListToAdd, null);
-            dataGridView1.DataSource = source;
-
-            dataGridView1.Columns["DataNascita"].DefaultCellStyle.Format = "dd/MM/yyyy";
-            dataGridView1.Columns["Voti"].Visible = false;
         }
 
-        private void ShowStudentDetails(object sender, DataGridViewCellEventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            if (e.RowIndex >= 0)
+            foreach (var student in Students)
             {
-                Student SelectedStudent = Students[e.RowIndex];
-
-                var detailsForm = new DetailsStudentTeacher(SelectedStudent, Students, false, 0);
-
-                if (detailsForm.ShowDialog() == DialogResult.OK)
+                if(student.Matricola == numericUpDown1.Value)
                 {
-                    LoadGrid();
+                    MessageBox.Show("Singed In Sucessfully");
+                    var detailsForm = new DetailsStudentTeacher(SelectedStudent, Students, false, 0);
+                    detailsForm.Show();
+                    return;
                 }
+
+                MessageBox.Show("Invalid ID");
+                numericUpDown1.Value = 0;
+                return;
             }
         }
-
-
     }
 }

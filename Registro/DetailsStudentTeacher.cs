@@ -12,16 +12,21 @@ namespace Registro
     {
         private Student SelectedStudent;
         private List<Student> Students;
+        private bool StudentMode;
+        private int ID;
         private bool EditState = false;
 
-        public DetailsStudentTeacher(Student SelectedStudent, List<Student> Students)
+        public DetailsStudentTeacher(Student SelectedStudent, List<Student> Students,  bool StudentMode, int ID)
         {
             this.SelectedStudent = SelectedStudent;
             this.Students = Students;
+            this.StudentMode = StudentMode;
+            this.ID = ID;
+
             InitializeComponent();
             UpdateStudentInfos(true);
             VotiGridUpdate();
-            UpdateGridEditState(EditState); // Set initial grid state
+            UpdateGridEditState(EditState);
         }
 
         private void UpdateStudentInfos(bool Timing)
@@ -75,13 +80,13 @@ namespace Registro
             {
                 EditState = true;
                 ChangeToEditable();
-                UpdateGridEditState(EditState); // Update grid state when entering edit mode
+                UpdateGridEditState(EditState);
             }
             else
             {
                 EditState = false;
                 UpdateStudentInfos(false);
-                UpdateGridEditState(EditState); // Update grid state when saving
+                UpdateGridEditState(EditState);
             }
         }
 
